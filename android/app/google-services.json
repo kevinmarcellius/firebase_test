@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286703047775",
+    "project_id": "test-firebase-15822",
+    "storage_bucket": "test-firebase-15822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286703047775:android:444c43584c3947a7d137ea",
+        "android_client_info": {
+          "package_name": "com.example.donobox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286703047775-rvi4latj3rlcb6raa4a4fq281murt0e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7oxSP2KCYVUExR3EKJ9EbGv8Uln1Nk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286703047775-rvi4latj3rlcb6raa4a4fq281murt0e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
